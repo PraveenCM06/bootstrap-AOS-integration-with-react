@@ -1,0 +1,59 @@
+.logo-img {
+  height: 3rem;
+}
+
+.brandname {
+  font-family: "Diphylleia", serif;
+}
+
+.carousal-container img {
+  object-fit: cover;
+  height: 30rem;
+}
+
+.modal-button {
+  margin-left: 1rem;
+}
+
+.home_icon {
+  margin-top: 10px;
+}
+
+.card_ {
+  width: 18rem;
+  transition: 0.3s ease-out;
+}
+
+.card_:hover{
+  transform: translateY(-0.6rem);
+  cursor: pointer;
+  box-shadow: 0 10px 30px 5px rgba(78, 78, 78, 0.341);
+  transition:all 0.3s ease-out;
+}
+
+.card-img-top {
+  scale: 0.5;
+}
+
+.grid-example {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-img-top{
+  height: 5rem;
+  width: 5rem;
+  align-self: center;
+}
+.card-title{
+  font-family: 'Quicksand', sans-serif;
+font-family: 'REM', sans-serif;
+font-weight: bolder;
+}
+
+.third-section{
+  height: 100vh;
+}
+
+/*# sourceMappingURL=index.css.map */
